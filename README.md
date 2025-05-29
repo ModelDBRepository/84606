@@ -18,7 +18,7 @@ xpp ode\Neuron_ZNS.ode
 
 This simulation will make a graph similar to figure 8:
 
-![ZNS_graph.jpg](ZNS_graph.jpg)
+![ZNS_graph.JPG](ZNS_graph.JPG)
 
 in the paper of Huang et al. From Xi vs t, type `ina` or `ikca` to check sodium or calcium-activated potassium currents.
 
